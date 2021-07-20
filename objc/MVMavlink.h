@@ -2,7 +2,7 @@
 //  MVMavlink.h
 //  MAVLink communications protocol built from common, minimal.xml
 //
-//  Created on Wed Sep 16 2020 by mavgen_objc.py
+//  Created on Tue Jul 20 2021 by mavgen_objc.py
 //  http://qgroundcontrol.org/mavlink
 //
 
